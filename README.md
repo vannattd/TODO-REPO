@@ -2,6 +2,16 @@
 
 A new Flutter application.
 
+
+Users registered
+
+Email: sample@gmail.com
+Password: password
+
+Email: admin@aol.com
+Password: password1
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
