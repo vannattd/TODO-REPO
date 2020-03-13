@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141145010253",
+    "firebase_url": "https://interview-4f1aa.firebaseio.com",
+    "project_id": "interview-4f1aa",
+    "storage_bucket": "interview-4f1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141145010253:android:045e9efbc1758b2cd1ec04",
+        "android_client_info": {
+          "package_name": "dylanvannatter.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141145010253-1gi3eu1bbj1p48mtc8ptmmjnoa29m5u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0DEHe0cDrJ2pES8wG5NEJsTSfm1VFWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141145010253-1gi3eu1bbj1p48mtc8ptmmjnoa29m5u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
