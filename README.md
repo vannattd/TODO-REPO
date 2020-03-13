@@ -9,7 +9,7 @@ Email: sample@gmail.com
 Password: password
 
 Email: admin@aol.com
-Password: password1
+Password: admin1
 
 
 ## Getting Started
